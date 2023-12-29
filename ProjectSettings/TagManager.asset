@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Score
   - Trap
+  - Moving1
   layers:
   - Default
   - TransparentFX

@@ -8,9 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Start Screen.unity
     guid: 62a2125c26a24fb4da9adb0053af9a29
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+  - enabled: 0
+    path: Assets/Scenes/Demo.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/LV1.unity
+    guid: 8247e212483b13a43a9fdb0610c8dcc5
+  - enabled: 1
+    path: Assets/Scenes/LV2.unity
+    guid: 8e09598a67bf7a14696114f304e4f5e1
   - enabled: 1
     path: Assets/Scenes/End Screen.unity
     guid: 6f1da13a2042dbd4b9da1feed12d0a28
