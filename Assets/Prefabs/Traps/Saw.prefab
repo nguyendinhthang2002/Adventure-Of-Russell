@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 3165867481219668472}
   - component: {fileID: 3766463290160983485}
   - component: {fileID: 8082006906601218059}
-  - component: {fileID: 3370393939154294689}
   m_Layer: 0
   m_Name: Saw
   m_TagString: Trap
@@ -145,19 +144,3 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.2511287, y: 2.247898}
   m_EdgeRadius: 0
---- !u!114 &3370393939154294689
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7452317759088139386}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f943c4e5821b87b419d6c992d5907007, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  waypoints:
-  - {fileID: 0}
-  - {fileID: 0}
-  speed: 2

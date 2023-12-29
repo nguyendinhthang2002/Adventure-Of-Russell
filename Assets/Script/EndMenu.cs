@@ -4,9 +4,8 @@ using UnityEngine;
 
 public class EndMenu : MonoBehaviour
 {
-    public void Quit()
+    public void Exit()
     {
-        //test
-       // Application.Quit();
+        Application.Quit();
     }
 }
